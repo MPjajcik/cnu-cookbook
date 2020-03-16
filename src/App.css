@@ -1,0 +1,115 @@
+a {
+  text-decoration: none !important;
+}
+
+.navbar-top {
+  margin-bottom: 16px;
+}
+
+.page-header {
+  padding-bottom: 8px;
+  margin: 16px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.page-footer {
+  color: #6c757d;
+}
+
+pre {
+  display: block;
+  padding: 9.5px;
+  margin: 0 0 10px;
+  font-size: 13px;
+  line-height: 1.42857143;
+  color: #333;
+  word-break: break-all;
+  word-wrap: break-word;
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.recipe {
+  margin-bottom: 24px;
+}
+
+.recipe-title {
+  font-size: 13px;
+  font-weight: 800;
+  padding-left: 8px;
+}
+
+.recipe-text {
+  font-size: 13px;
+  padding-left: 8px;
+  text-decoration: none;
+}
+
+.recipe-text :hover {
+  text-decoration: none;
+}
+
+.card {
+  min-height: 160px;
+  min-width: 270px;
+}
+
+.card-header {
+  min-height: 97px;
+}
+
+.titleDetail {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.backButton {
+  width: 50px;
+  height: 50px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+.dirList {
+  list-style-type: none !important;
+}
+
+.dirItem {
+  margin-bottom: 10px;
+}
+
+.editDirections {
+  min-height: 500px;
+}
+
+.ingredientsDiv {
+  display: flex;
+  align-items: center;
+}
+
+.removeIng {
+  height: 20px;
+  width: 20px;
+  margin-top: 5px;
+  color: red;
+}
+
+.ingredientsList {
+  list-style-type: none !important;
+}
+
+.editTitleDetail {
+  display: flex;
+  justify-content: space-between;
+}
+
+.titleInputParagraph {
+  display: flex;
+  align-items: baseline;
+}
+
+.addIngButton {
+  margin-left: 5px;
+}
